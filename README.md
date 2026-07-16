@@ -30,3 +30,11 @@ Molina-inspired: gospel-jazz harmony, grand piano forward, engine 0.1.1.
 **Sincelejo** — starts on the five like it already knows the answer. `Ab7 → Dbmaj7 → Fm7`
 
 **Shout Music** — ninety-six and climbing, praise-break energy. `Cm7 → Gm7 → Ebmaj7`
+
+## Half-Step to Midnight · single · 2026-07-16
+
+The first two-part-form track — a half-step Latin vamp that breaks into a
+swinging bridge and settles home. Original, in the Latin-jazz language.
+
+A: `Dm7 → Ebmaj7` (the ♭II Spanish tinge) · B: `Dm7 → Gm7 → A7♭13`
+
