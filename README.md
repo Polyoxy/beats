@@ -18,3 +18,15 @@ permission to sit. `F#m7 → C#m7 → Amaj7`
 
 All three: faiyaz card, C# minor, 72 bpm, one seed. GM preview renders —
 the real sound engine is on the way.
+
+## Sunday Hands EP · 2026-07-16
+
+Molina-inspired: gospel-jazz harmony, grand piano forward, engine 0.1.1.
+
+**Selah** — sixty-six a minute with no drums to hide behind. `Abmaj7 → Eb7 → Cm7`
+
+**Testimony** — minor key, major witness. `Cm7 → Abmaj7`
+
+**Sincelejo** — starts on the five like it already knows the answer. `Ab7 → Dbmaj7 → Fm7`
+
+**Shout Music** — ninety-six and climbing, praise-break energy. `Cm7 → Gm7 → Ebmaj7`
