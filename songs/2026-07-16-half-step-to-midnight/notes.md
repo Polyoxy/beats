@@ -11,5 +11,5 @@ secondary dominant (Bb7 into the ♭II) and a tritone sub threading through it.
 the vamp and pulls back.
 
 lattice 0.3.0 · tunisia card · D minor · 140 bpm · seed 3, beat 0 of 3.
-Original composition — not a cover. GM grand-piano preview; re-renders through
-the real sound engine when it lands.
+Original composition — not a cover. Real sampled grand now — engine 0.4.0.
+Master in Releases.

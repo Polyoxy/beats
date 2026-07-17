@@ -16,12 +16,11 @@ permission to sit. `F#m7 → C#m7 → Amaj7`
 **Name on the Door** — two chords. The door already says everything.
 `Amaj7 → C#m7`
 
-All three: faiyaz card, C# minor, 72 bpm, one seed. GM preview renders —
-the real sound engine is on the way.
+All three: faiyaz card, C# minor, 72 bpm, one seed.
 
 ## Sunday Hands EP · 2026-07-16
 
-Molina-inspired: gospel-jazz harmony, grand piano forward, engine 0.1.1.
+Molina-inspired: gospel-jazz harmony, real grand piano forward.
 
 **Selah** — sixty-six a minute with no drums to hide behind. `Abmaj7 → Eb7 → Cm7`
 
