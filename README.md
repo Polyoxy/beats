@@ -37,3 +37,13 @@ swinging bridge and settles home. Original, in the Latin-jazz language.
 
 A: `Dm7 → Ebmaj7` (the ♭II Spanish tinge) · B: `Dm7 → Gm7 → A7♭13`
 
+## The Gilded Hour · 2026-07-17
+
+The ballroom card debut — 1930s foxtrot: stride grand, walking upright,
+brushes, strings. AABA.
+
+**Old Money** — the vamp holds two chords; the bridge owns the whole chain. `C6 → Fm6`
+
+**White Gloves** — the golden turnaround in F, one-twelve a minute. `Gm7 → C7 → F6 → Dm7`
+
+**Marble Floors** — same hand played faster and brighter. `Fm7 → Bb7 → Eb6 → Cm7`
