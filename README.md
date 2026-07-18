@@ -47,3 +47,11 @@ brushes, strings. AABA.
 **White Gloves** — the golden turnaround in F, one-twelve a minute. `Gm7 → C7 → F6 → Dm7`
 
 **Marble Floors** — same hand played faster and brighter. `Fm7 → Bb7 → Eb6 → Cm7`
+
+## Like Yeen Did · single · 2026-07-18
+
+The chase card debut — heartbreak at highway speed. Duel piano over a
+left-hand motor, answering strings, a violin solo on the bridge. The
+engine's first melodies.
+
+A: `Fm7 → Bbm9 → Eb7 → Dbmaj7` (the descent that leaves without the V) · B: `Fm7 → Dbmaj7`
